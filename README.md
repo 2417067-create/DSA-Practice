@@ -4,6 +4,7 @@ This repository contains my Data Structures and Algorithms practice solutions in
 
 ## Topics Covered
 - Arrays
+- ✅ Two Sum (LeetCode #1)
 - Strings
 - Linked Lists
 - Stacks
